@@ -1,5 +1,5 @@
 # My-first
-My first repository! 
+My first repository, which contains my README info! 
 
 - 👋 Hi, I’m @Rothstein1
 - 👀 I’m interested in Data Science and Finance
